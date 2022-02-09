@@ -13,9 +13,7 @@ Output:
 * Please  think about measures to judge the quality and certainty of predictions  and provide
 them as well.
 
-<p align="center">
-  <img src="./img/inputdata.png" alt="Data RAw" width="738">
-</p>
+
 
 ## Explanation of design 
 The number of days where a call has occurred are added using python in order to have a single entry for each day. Afterwards, the received data is transofrmed into two vectors
