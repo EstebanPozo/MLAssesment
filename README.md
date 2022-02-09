@@ -14,7 +14,7 @@ Output:
 them as well.
 
 <p align="center">
-  <img src="./img/inputdata.png" alt="Size Limit CLI" width="738">
+  <img src="./img/inputdata.png" alt="Data RAw" width="738">
 </p>
 
 ## Explanation of design 
@@ -25,8 +25,8 @@ that will represent X and y using a function. Feature engineering using DataPrep
 The training, testing nd validation data is split using this dataframe. Afterwards the model is trained and the output printed.
 
 ## Assumptions
-No weather data available on database. So this feature has not been taken into account.
-No distinction between  type of calls (fire, hazmat etc.) has been made.
+* No weather data available on database. So this feature has not been taken into account.
+* No distinction between  type of calls (fire, hazmat etc.) has been made.
 
 ## How It Works
 
